@@ -87,7 +87,7 @@ export default function ContactPage() {
                           Phone
                         </p>
                         <a
-                          href="tel:+1234567890"
+                          href="tel:+918136997734"
                           className="text-white text-sm font-medium hover:text-[#C8991A] transition-colors"
                         >
                           +1 (234) 567-890
@@ -156,7 +156,7 @@ export default function ContactPage() {
 
               {/* WhatsApp */}
               <a
-                href="https://wa.me/1234567890?text=Hello!%20I'm%20interested%20in%20NDT%20equipment."
+                href="https://wa.me/918136997734?text=Hello!%20I'm%20interested%20in%20NDT%20equipment."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 bg-[#25D366] hover:bg-[#20BA5A] rounded-sm p-5 transition-colors group"
